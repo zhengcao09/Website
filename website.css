@@ -1,0 +1,28 @@
+#hc {
+	color: purple;
+	font-size: 23px;
+}
+
+.navbar-default .navbar-brand{
+	font-size: 20px;
+}
+
+.navbar-default .navbar-nav>li>a {
+	font-size: 18px;
+}
+
+.jumbotron{
+		margin-top: 3%;
+}
+
+.pic{
+	width: 150px;
+	height: 150px;
+	
+}
+
+.jumbotron>h1 {
+	display: inline;
+	margin-left: 40px;
+	padding-top: 60px;
+}
