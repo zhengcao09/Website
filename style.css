@@ -29,6 +29,7 @@ body {
 	height: 250px;
 }
 .container .left h1 {
+	margin: 40px;
 	font-size: 6em;
 }
 .container .left .button {
