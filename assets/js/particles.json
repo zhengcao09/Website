@@ -8,13 +8,13 @@
       			}
     		},
     		"color": {
-      			"value": "#ffffff"
+      			"value": "#FFFFFF"
  		},
 		"size": {
 			"value": 4		
 		},
 		"opacity": {
-			"value": 0.5,
+			"value": 0.75,
 			"random": true
 		},
 		"move": {
